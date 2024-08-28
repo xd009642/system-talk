@@ -1,0 +1,16 @@
+[project]
+name = "system-talk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "manim>=0.18.1",
+    "networkx>=3.3",
+    "pydot>=3.0.1",
+    "pygraphviz>=1.13",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

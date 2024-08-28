@@ -1,0 +1,7 @@
+[package]
+name = "layout-engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+layout-rs = "0.1.2"
